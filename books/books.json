@@ -1,0 +1,22 @@
+[
+    {
+        "model" : "books.Books",
+        "pk" : 1,
+        "fields" : {
+            "title" : "Book-01",
+            "author" : "Author-01",
+            "description" : "Book-01 content",
+            "pub_year" : "2020"            
+        }
+    },
+    {
+        "model" : "books.Books",
+        "pk" : 2,
+        "fields" : {
+            "title" : "Book-01",
+            "author" : "Author-01",
+            "description" : "Book-01 content",
+            "pub_year" : "2020"            
+        }
+    }
+]
